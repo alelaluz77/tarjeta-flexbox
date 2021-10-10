@@ -1,0 +1,16 @@
+tarjeta (para un mobile y desktop)
+para replicar las  veces necesaria en un proyecto
+
+-------------------------------------------
+
+RECURSOS/formas:
+sin boostrap
+https://www.frontendmentor.io/
+flexbox
+normalize
+utilizacion de clases y etiquetas (h5 ) similares a boostrap para luego adaptarla al frameword(boostrap)
+
+------------------------------------------
+
+vamos a utilizar la etiqueta main debido a que  vamos a realizar una tarjeta solamente (recordar que main se usa solo se puede usar una vez y  para el contenido mas importante de la pagina) de lo contrario usariamos una div porque tendriamos mas elementos.
+vamos a utilizar en vez de la h5  un h1  tambien debido a que  vamos a  hacer una sola tarjeta , pero si tuviesemos varias seria h5 a utilizar 
